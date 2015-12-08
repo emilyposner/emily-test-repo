@@ -1,2 +1,2 @@
 # emily-test-repo
-Repo for testing purposes
+Testing out github's functionality.
